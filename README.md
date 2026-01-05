@@ -1,2 +1,2 @@
 # reducing-menialness
-Some productivity scripts I've written in AutoHotkey to minimize repetitive tasks. Mostly extracting data from websites by web scraping and automating routine actions such as navigating websites/documents and filling out forms and emails.
+Some productivity scripts I've written in AutoHotkey to minimize repetitive tasks; mostly extracting data from websites by web scraping, automating routine actions such as navigating websites and filling out forms/emails.
